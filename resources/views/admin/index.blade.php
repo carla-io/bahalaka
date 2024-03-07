@@ -1,9 +1,10 @@
 @extends('layouts.admin')
 
 @section('content')
-   <div class="card">
-       <div class="card-body">
-          <h1>Click Lock</h1>
-       </div>
-   </div>
+<div class="content">
+        <div class="row">
+          <div class="col-md-12">
+            <h3 class="description">Your content here</h3>
+          </div>
+        </div>
 @endsection
